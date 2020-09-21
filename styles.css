@@ -1,0 +1,26 @@
+body{
+    background:rgb(170, 215, 229);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color:black;
+    text-align:center;
+    font-family: Bodoni;
+    -webkit-text-stroke: .15px orange;
+    font-size: 50px;
+}
+h2{
+    -webkit-text-stroke: .75px black;
+    color:lightseagreen;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    border: 1px black;
+}
