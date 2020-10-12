@@ -1,5 +1,5 @@
 body{
-    background:rgb(170, 215, 229);
+    background:#90AFC5;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
 }
@@ -7,25 +7,26 @@ h1{
     color:black;
     text-align:center;
     font-family: Bodoni;
-    -webkit-text-stroke: .15px orange;
+    -webkit-text-stroke: 5px orange;
     font-size: 50px;
 }
 h2{
-    -webkit-text-stroke: .75px black;
-    color:lightseagreen;
+    -webkit-text-stroke: 100px black;
+    color:#FFFFFF;
 }
 .assignment{
     display: flex;
     padding: 10px;
+    margin:10px;
+    background: #336B87;
 }
-.assignment img:not(.long){
+.assignment img
+{
     width: 350px;
     height: 350px;
-    padding: 10px;
-
+    margin-right: 20px;
 }
-img[src=images/affinitydiagram.png]{
-    display:block;
-    width: 1050px;
-    height:350px;
+a
+{
+    text-decoration: none;
 }
