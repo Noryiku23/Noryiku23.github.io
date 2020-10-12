@@ -17,13 +17,13 @@ h2{
 .assignment{
     display: flex;
     padding: 10px;
-    margin:10px;
+    margin: 10px;
     background: #336B87;
 }
 .assignment img
 {
     width: 350px;
-    height: 350px;
+    height: 400px;
     margin-right: 20px;
 }
 a
