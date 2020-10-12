@@ -7,11 +7,11 @@ h1{
     color:black;
     text-align:center;
     font-family: Bodoni;
-    -webkit-text-stroke: 5px orange;
+    -webkit-text-stroke: .5px orange;
     font-size: 50px;
 }
 h2{
-    -webkit-text-stroke: 100px black;
+    -webkit-text-stroke: .25px black;
     color:#FFFFFF;
 }
 .assignment{
