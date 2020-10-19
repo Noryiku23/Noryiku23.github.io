@@ -18,7 +18,9 @@ h2{
     display: flex;
     padding: 10px;
     margin: 10px;
+    margin-bottom: 20px;
     background: #336B87;
+    box-shadow: 5px 5px #4b4a4a;
 }
 .assignment img
 {
@@ -29,4 +31,8 @@ h2{
 a
 {
     text-decoration: none;
+}
+.assignment h2:hover
+{
+    color: black;
 }
